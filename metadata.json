@@ -1,0 +1,6 @@
+{
+  "name": "GameLingo",
+  "description": "Профессиональный переводчик для мобильных игр",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
