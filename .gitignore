@@ -9,9 +9,6 @@ local.properties
 *.keystore
 *.jks
 
-# Firebase
-google-services.json
-
 # Environment
 .env
 
