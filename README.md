@@ -14,11 +14,23 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/GameLingoApp/GameLingo/actions/workflows/build.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/GameLingoApp/GameLingo/build.yml?style=flat-square&label=Build" alt="Build Status">
+  </a>
   <a href="https://gamelingo.netlify.app"><img src="https://img.shields.io/badge/Website-gamelingo.netlify.app-blue?style=flat-square" alt="Website"></a>
   <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square" alt="Kotlin">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/API-26%2B-brightgreen?style=flat-square" alt="Min API">
+</p>
+
+<p align="center">
+  <a href="https://github.com/GameLingoApp/GameLingo/releases/latest">
+    <img src="https://img.shields.io/github/v/release/GameLingoApp/GameLingo?style=flat-square&label=Latest%20Release&color=blue" alt="Latest Release">
+  </a>
+  <a href="https://github.com/GameLingoApp/GameLingo/releases/latest/download/app-debug.apk">
+    <img src="https://img.shields.io/badge/⬇️_Download_APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
 </p>
 
 ---
