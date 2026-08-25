@@ -1,0 +1,30 @@
+# Contributing to GameLingo
+
+Thank you for your interest in contributing!
+
+## How to Contribute
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## Code Style
+
+- Kotlin coding conventions
+- Jetpack Compose best practices
+- MVVM architecture pattern
+- Meaningful variable and function names
+- Comments for complex logic
+
+## Reporting Issues
+
+- Use GitHub Issues
+- Describe the bug clearly
+- Include steps to reproduce
+- Add screenshots if possible
+
+## Contact
+
+support.gamelingo.app@gmail.com

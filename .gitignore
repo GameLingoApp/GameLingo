@@ -1,18 +1,28 @@
+# IDE
+.idea/
 *.iml
-.gradle
-.kotlin
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.gradle/
+build/
+
+# Local config
 local.properties
+*.keystore
+*.jks
+
+# Firebase
+google-services.json
+
+# Environment
 .env
-debug.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+app/build/
+functions/node_modules/
+.build-outputs/
+.cxx/
+.externalNativeBuild/
+captures/
