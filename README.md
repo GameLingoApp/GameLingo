@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="README.ru.md">🇷🇺 Русская версия</a>
+</p>
+
+<p align="center">
   <a href="https://gamelingo.netlify.app"><img src="https://img.shields.io/badge/Website-gamelingo.netlify.app-blue?style=flat-square" alt="Website"></a>
   <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square" alt="Kotlin">
@@ -36,11 +40,7 @@ It uses on-device ML Kit translation — no API keys, no internet required for b
 
 ## Screenshots
 
-| Home | Translation | Overlay | Premium |
-|------|-------------|---------|---------|
-| ![Home](assets/screenshots/home.png) | ![Translation](assets/screenshots/translation.png) | ![Overlay](assets/screenshots/overlay.png) | ![Premium](assets/screenshots/premium.png) |
-
-> Screenshots will be added after final UI polish.
+> Coming soon after final UI polish.
 
 ## Tech Stack
 
